@@ -6,11 +6,11 @@ Repository For DevOps Homework
 | [Jubeen Shah](www.jubeenshah.com) | [JNSHAH2](mailto:jnshah2@ncsu.edu) | [DEVOPS CSC519](https://github.com/CSC-DevOps) |
 
 ## Content
-1. [HW0 - Pipelines](#hw0-piplines)
+1. [HW0 - Pipelines](#hw0-pipelines)
 2. [HW1 - Provisioning](#hw1-provisioning)
 
 
-# HW0 - Pipelines
+# HW0-Pipelines
 
 ## Content
 1. [About the Homework](#about)
@@ -77,7 +77,7 @@ npm run start
 * [YouTube](https://youtu.be/WlYsmlYm36w?t=29)
 
 
-# HW1-Devops
+# HW1-Provisioning
 
 ## Content
 1. [About the homework](#about-the-homework)
