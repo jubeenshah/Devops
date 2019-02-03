@@ -4,3 +4,6 @@
 [submodule "HW1"]
 	path = HW1
 	url = https://github.com/jubeenshah/HW1.git
+[submodule "HW2-Devops"]
+	path = HW2-Devops
+	url = https://github.ncsu.edu/jnshah2/HW2-Devops.git
